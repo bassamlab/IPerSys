@@ -91,9 +91,6 @@ Below you will find a list of approved speakers from our collaborator network. T
    *  - Simon Schäfer
       - RWTH Aachen University, Germany
       - Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems
-   *  - Archak Mittal
-      - IIT Bombay, India
-      - Design and Implementation of Roadside Sensing Systems in a Small-Scale Testbed for Cooperative V2X Evaluation
    *  - Walter Zimmer
       - University of California, Los Angeles, USA
       - Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving
