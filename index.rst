@@ -26,6 +26,12 @@ digital twins for traffic infrastructure.
 News
 ----
 
+.. admonition:: 2026-06-02 — Speaker lineup finalized
+   :class: note
+
+   The speakers for the **IPerSense** workshop at **IEEE ITSC 2026** have been finalized. Detailed
+   information about the speakers and their talks is listed in :ref:`itsc_2026_speaker`.
+
 .. admonition:: 2026-04-20 — ITSC 2026 workshop accepted
    :class: tip
 

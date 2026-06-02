@@ -89,3 +89,34 @@
     line-height: 1.25;
   }
 }
+
+.technical-sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: clamp(1rem, 4vw, 2.5rem);
+  margin: 1rem auto 0;
+}
+
+.technical-sponsor-logo {
+  width: clamp(140px, 20vw, 240px);
+  height: auto;
+}
+
+.technical-sponsor-logo--dark {
+  display: none;
+}
+
+html.dark .technical-sponsor-logo--light {
+  display: none;
+}
+
+html.dark .technical-sponsor-logo--dark {
+  display: block;
+}
+
+@media (max-width: 520px) {
+  .technical-sponsor-logo {
+    width: 42vw;
+  }
+}

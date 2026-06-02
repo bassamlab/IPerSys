@@ -13,12 +13,11 @@ IPerSense at IEEE ITSC 2026
 Status
 ------
 
-.. admonition:: 2026-04-20 — Workshop accepted
+.. admonition:: 2026-06-02 — Speaker lineup finalized
    :class: tip
 
-   We are happy to announce that the **IPerSense** workshop proposal for
-   **IEEE ITSC 2026** has been accepted. This page will be updated as the
-   organizer team finalizes speakers, program, and participation details.
+   The speakers for this instance of **IPerSense** have been finalized. Detailed information about
+   the speakers and their talks is listed in the **Speakers** section below.
 
 Overview
 --------
@@ -71,46 +70,209 @@ The workshop focuses on the following themes:
 - Digital twins of road infrastructure and validation workflows
 - Simulation, small-scale experimentation, and full-scale deployment
 
+.. _itsc_2026_speaker:
+
 Speakers
 --------
 
-**Speaker information will be announced soon.**
+Below you find the list of the international list speakers for this workshop instance.
 
-Below you will find a list of approved speakers from our collaborator network. The final speaker list for this edition will be updated once the program is finalized.
+.. container:: organizer-profile
 
-.. list-table:: 
-   :widths: 20 30 50
-   :header-rows: 0
+   .. container:: organizer-media
 
-   *  - Speaker
-      - Affiliation
-      - Title
-   *  - Ehsan Hashemi
-      - University of Alberta, Canada
-      - Smart Infrastructure with Multimodal Perception for Safe Mobility in Adverse Weather: A Field Deployment in Canada
-   *  - Simon Schäfer
-      - RWTH Aachen University, Germany
-      - Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems
-   *  - Walter Zimmer
-      - University of California, Los Angeles, USA
-      - Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving
-   *  - Robert Gee
-      - AUMOVIO, USA
-      - Deployment Timing vs. Methodology: What you don't know can hurt you
-   *  - Markus Geisler
-      - CARISSMA at Technische Hochschule Ingolstadt, Germany
-      - Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic
-   *  - Kuo-Yi Chao
-      - Technical University of Munich, Germany
-      - Smart Infrastructure for Source-Agnostic Cooperative Perception
-   *  - Novel Certag
-      - Johannes Kepler University Linz, Austria
-      - ADAS Reliability and Road Condition Estimation Using Vehicle-Mounted Sensors
+      .. figure:: ../images/people/gee.jpg
+         :width: 220px
+         :alt: Robert Gee
+         :class: organizer-photo
 
-Program (tentative)
----------------------
+         Copyright © Robert Gee
 
-The detailed program will be added once the final agenda is available.
+   **Robert Gee** is Strategy Manager for Standards, Government Affairs, and Intellectual Property at
+   AUMOVIO (formerly Continental Automotive), USA, where he focuses on advancing connected,
+   cooperative, and automated mobility through industry standards, policy engagement, and
+   ecosystem development.
+
+   With more than 30 years of experience in automotive and communications systems, he has held
+   technical and leadership roles at IBM, Loral, Motorola, Continental, and AUMOVIO. His work 
+   spans military and commercial communications, secure government networks, and large-scale
+   vehicle connectivity systems deployed across global markets. He holds a Master's degree in
+   Computer Science, a Bachelor's degree in Electrical Engineering, and is an inventor on more 
+   than 20 issued patents.
+
+   Robert is also a national Emmy Award recipient for his work as a producer at CNN, where he
+   pioneered modern citizen photojournalism approaches and contributed to globally syndicated
+   news content.
+
+   At this iteration of IPerSense, he will open the session with
+   the presentation “Deployment Timing vs. Methodology: What You Don't Know Can Hurt You,”
+   highlighting the critical role of infrastructure-based perception in enabling scalable, safe,
+   and practical deployment of cooperative and automated driving systems.
+
+   Learn more about `Robert Gee <https://www.linkedin.com/in/robert-gee-2571461/>`_.
+
+   **Email:** robert.gee@aumovio.com
+
+.. container:: organizer-profile
+
+   .. container:: organizer-media
+
+      .. figure:: ../images/people/zimmer.jpg
+         :width: 220px
+         :alt: Walter Zimmer
+         :class: organizer-photo
+
+         Copyright © Walter Zimmer
+
+
+   **Walter Zimmer** is a Postdoctoral Researcher at the University of California, Los Angeles (UCLA), USA and a former researcher at the Technical University of Munich (TUM), Germany, where he worked on large-scale cooperative perception systems for autonomous driving. His research focuses on infrastructure-based perception, multi-modal sensor fusion, and digital twins for intelligent transportation systems.
+
+   During his time at TUM, he contributed to major real-world deployments of roadside sensing systems and co-developed the TUMTraf-V2X dataset, a large-scale real-world benchmark for cooperative vehicle–infrastructure perception and tracking. His work includes camera- and LiDAR-based 3D object detection, multi-sensor calibration, and the creation of digital traffic representations used for evaluating connected and automated driving systems.
+
+   At this iteration of IPerSense, he will present “Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving,” demonstrating how infrastructure-based sensing can generate live digital twins of traffic scenes and enable scalable, robust perception for future autonomous driving systems.
+
+   Learn more about `Walter Zimmer <https://walzimmer.github.io>`_.
+
+   **Email:** walterzimmer@gmx.de
+
+.. container:: organizer-profile
+
+   .. container:: organizer-media
+
+      .. figure:: ../images/people/geisler.jpg
+         :width: 220px
+         :alt: Markus Geisler
+         :class: organizer-photo
+
+         Copyright © Markus Geisler
+   
+   **Markus Geisler** is a researcher in cooperative perception and intelligent transportation
+   systems at the CARISSMA Institute of Automated Driving, Technische Hochschule Ingolstadt (THI),
+   Germany. His research focuses on infrastructure-based perception, vehicle-to-everything (V2X)
+   communication, and large-scale multi-sensor datasets for cooperative autonomous driving.
+
+   He has contributed to real-world deployments and dataset development for infrastructure-vehicle
+   perception systems, including multi-modal setups combining roadside LiDAR and camera sensing with
+   connected vehicles for 3D object detection, tracking, and occlusion-aware scene understanding.
+   His work supports the development of scalable infrastructure sensing systems and digital
+   representations of urban traffic environments.
+
+   At this iteration of IPerSense, he will present “Infrastructure-Based Perception Systems for
+   Safety Applications in Urban Traffic,” highlighting how roadside sensing infrastructure can
+   improve safety-critical perception performance in complex urban environments and support the
+   design of future cooperative mobility systems.
+
+   Learn more about `Markus Geisler <https://www.linkedin.com/in/markus-geisler-1030761b3/>`_.
+
+   **Email:** markus.geisler@thi.de
+
+.. container:: organizer-profile
+
+	.. container:: organizer-media
+
+		.. figure:: ../images/people/schaefer.jpg
+			:width: 220px
+			:alt: Simon Schäfer
+			:class: organizer-photo
+
+			Copyright © RWTH Aachen University
+
+   **Simon Schäfer** is a Research Associate at the Chair of Embedded Software (Informatik 11) at
+   RWTH Aachen University, Germany, and a member of the Cyber-Physical Mobility group. He received
+   his B.Sc. and M.Sc. in Computational Engineering Science from RWTH Aachen University.
+
+   His research focuses on infrastructure-based localization of traffic participants, sensor
+   fusion, and the development of cyber-physical mobility systems. He works on bridging simulation,
+   small-scale experimental platforms, and full-scale real-world deployments, with a particular
+   emphasis on evaluating the transferability and scalability of connected and automated vehicle
+   (CAV) systems across different testing domains.
+
+   His contributions include the design and analysis of small-scale CAV testbeds, benchmarking
+   methodologies for cooperative mobility systems, and experimental frameworks that combine
+   simulation and physical test environments. He has also contributed to research on the
+   Cyber-Physical Mobility Lab, enabling reproducible evaluation of cooperative driving and
+   perception systems across simulation and hardware.
+
+   At this iteration of IPerSense, he will present “Filling the Gap: From Sim to Small to Full
+   Scale Testing for Roadside Sensing Systems,” addressing how infrastructure-based perception
+   systems can be systematically developed and validated across simulation, scaled experiments,
+   and full deployment environments.
+
+   Learn more about `Simon Schäfer <https://www.embedded.rwth-aachen.de/cms/embedded/der-lehrstuhl/mitarbeiteruebersicht/~bfleef/simon-schaefer/>`_.
+
+   **Email:** schaefer@embedded.rwth-aachen.de
+
+.. container:: organizer-profile
+
+   .. container:: organizer-media
+
+      .. figure:: ../images/people/gorospe.jpg
+			:width: 220px
+			:alt: Joseba Gorospe
+			:class: organizer-photo
+
+			Copyright © Joseba Gorospe
+
+   **Joseba Gorospe** is a Postdoctoral Researcher at the Institute of Intelligent Transport
+   Systems at Johannes Kepler University (JKU) Linz, Austria. He received his PhD in Connected
+   and Automated Vehicles from Mondragon Unibertsitatea, Spain, where he focused on hybrid vehicular
+   communication systems integrating IEEE 802.11p/802.11bd and C-V2X/NR-V2X technologies, as well
+   as AI-based optimization of radio access selection for intelligent transportation systems.
+
+   His research interests include vehicle-to-everything (V2X) communications, cooperative and
+   connected automated mobility, mobile edge computing, and AI-driven intelligent transportation
+   systems. He works on integrating heterogeneous communication and sensing data to improve
+   real-time traffic awareness, system reliability, and safety in connected mobility environments.
+   He is involved in European and national projects such as MITHOS, InSeCTT, AutoLib, and AutoEv@l,
+   focusing on AI-enabled mobility services and infrastructure-based intelligence for
+   transportation systems.
+
+   At this iteration of IPerSense, , he will present “ADAS Reliability and Road Condition
+   Estimation Using Vehicle-Mounted Sensors,” highlighting how vehicle-based perception can be used
+   to infer infrastructure state, complement roadside sensing systems, and “look over the horizon”
+   by using perception not only to understand the environment, but also to characterize and predict
+   infrastructure conditions.
+
+   Learn more about `Joseba Gorospe <https://www.linkedin.com/in/jgorospe/?originalSubdomain=at>`_.
+   
+   **Email:** joseba.gorospe@jku.at
+   
+
+.. .. list-table:: 
+..    :widths: 20 30 50
+..    :header-rows: 0
+
+..    *  - Speaker
+..       - Affiliation
+..       - Title
+..    *  - Robert Gee
+..       - AUMOVIO, USA
+..       - Deployment Timing vs. Methodology: What you don't know can hurt you
+..    *  - Walter Zimmer
+..       - University of California, Los Angeles, USA
+..       - Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving
+..    *  - Markus Geisler
+..       - CARISSMA at Technische Hochschule Ingolstadt, Germany
+..       - Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic
+..    *  - Simon Schäfer
+..       - RWTH Aachen University, Germany
+..       - Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems
+..    *  - Joseba Gorospe
+..       - Johannes Kepler University Linz, Austria
+..       - ADAS Reliability and Road Condition Estimation Using Vehicle-Mounted Sensors
+
+Program
+-------
+
+Please find the detailed program for this workshop instance below. The schedule is subject to
+change once the venue and time slot are finalized by the conference organizers.
+
+.. admonition:: 2026-06-02 — Program subject to change
+   :class: warning
+
+   The timeslot of this workshop is not yet finalized by the conference organizers. The program
+   below is a preliminary schedule in correct order but the exact times may change once the
+   conference program is finalized. Please check back for updates.
 
 .. list-table:: 
    :widths: 25 50 25
@@ -119,30 +281,40 @@ The detailed program will be added once the final agenda is available.
    *  - Time
       - Event Type
       - Remarks
-   *  - 8:30 am - 8:40 am
-      - Arrival and Registration
-      - 10 min registration and welcome
-   *  - 8:40 am - 8:45 am
+   *  - 8:30 am - 8:35 am
       - Opening Remarks by organizers
       - 5 min introduction
-   *  - 8:45 am - 9:05 am
-      - Presenter I - Title I
+   *  - 8:35 am - 8:55 am
+      - | Robert Gee
+        | *AUMOVIO, USA*
+        | **Deployment Timing vs. Methodology: What you don't know can hurt you**
       - 15 min talk + 5 min Q/A
-   *  - 9:05 am - 9:25 am
-      - Presenter II - Title II
+   *  - 8:55 am - 9:15 am
+      - | Walter Zimmer
+        | *University of California, Los Angeles, USA*
+        | **Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving**
       - 15 min talk + 5 min Q/A
-   *  - 9:25 am - 9:45 am
-      - Presenter III - Title III
+   *  - 9:15 am - 9:35 am
+      - | Markus Geisler
+        | *CARISSMA at Technische Hochschule Ingolstadt, Germany*
+        | **Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic**
       - 15 min talk + 5 min Q/A
-   *  - 9:45 am - 10:05 am
-      - Presenter IV - Title IV
+   *  - 9:35 am - 9:55 am
+      - | Simon Schäfer
+        | *RWTH Aachen University, Germany*
+        | **Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems**
       - 15 min talk + 5 min Q/A
-   *  - 10:05 am - 10:45 am
+   *  - 9:55 am - 10:15 am
+      - | Joseba Gorospe
+        | *Johannes Kepler Universität Linz, Austria*
+        | **ADAS Reliability and Road Condition Estimation Using Vehicle-Mounted Sensors**
+      - 15 min talk + 5 min Q/A
+   *  - 10:15 am - 10:55 am
       - All Speakers - Panel Discussion
       - 40 min moderated by organizers
-   *  - 10:45 am - 11:00 am
+   *  - 10:55 am - 11:00 am
       - Conclusion and Closing Remarks by organizers
-      - 15 min farewell
+      - 5 min farewell
 
 Attendance and registration
 -----------------------------
@@ -154,3 +326,17 @@ workshop day and is included in a full conference registration.
 See the official conference website for registration, venue, and local
 information:
 `IEEE ITSC 2026 <https://ieee-itsc.org/2026/>`_.
+
+Technical Sponsors
+------------------
+
+This venue of this workshop is technically sponsored by the IEEE and the IEEE Intelligent Transportation Systems Society (ITSS). 
+
+.. raw:: html
+
+   <div class="technical-sponsor-logos" aria-label="Technical sponsors">
+       <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/ieee_logo_color_rgb.svg" alt="IEEE Logo" loading="lazy"/>
+       <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/ieee_logo_white_rgb.svg" alt="IEEE Logo" loading="lazy"/>
+       <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/itss_logo_color_rgb.svg" alt="IEEE ITSS Logo" loading="lazy"/>
+       <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/itss_logo_white_rg.svg" alt="IEEE ITSS Logo" loading="lazy"/>
+   </div>
