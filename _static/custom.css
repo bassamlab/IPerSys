@@ -91,15 +91,18 @@
 }
 
 .technical-sponsor-logos {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   align-items: center;
-  gap: clamp(1rem, 4vw, 2.5rem);
+  justify-items: center;
+  column-gap: clamp(1rem, 3vw, 2rem);
+  row-gap: 1rem;
+  width: min(100%, 880px);
   margin: 1rem auto 0;
 }
 
 .technical-sponsor-logo {
-  width: clamp(140px, 20vw, 240px);
+  width: min(100%, 240px);
   height: auto;
 }
 
@@ -115,8 +118,12 @@ html.dark .technical-sponsor-logo--dark {
   display: block;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 640px) {
+  .technical-sponsor-logos {
+    grid-template-columns: 1fr;
+  }
+
   .technical-sponsor-logo {
-    width: 42vw;
+    width: min(78vw, 280px);
   }
 }

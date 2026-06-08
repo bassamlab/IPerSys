@@ -321,22 +321,20 @@ Attendance and registration
 
 This workshop is held at **IEEE ITSC 2026**.
 Participation requires registration for **IEEE ITSC 2026** at least for the
-workshop day and is included in a full conference registration.
-
-See the official conference website for registration, venue, and local
+workshop day and is included in a full conference registration. See the official conference website for registration, venue, and local
 information:
 `IEEE ITSC 2026 <https://ieee-itsc.org/2026/>`_.
-
-Technical Sponsors
-------------------
 
 This venue of this workshop is technically sponsored by the IEEE and the IEEE Intelligent Transportation Systems Society (ITSS). 
 
 .. raw:: html
 
    <div class="technical-sponsor-logos" aria-label="Technical sponsors">
-       <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/ieee_logo_color_rgb.svg" alt="IEEE Logo" loading="lazy"/>
-       <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/ieee_logo_white_rgb.svg" alt="IEEE Logo" loading="lazy"/>
-       <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/itss_logo_color_rgb.svg" alt="IEEE ITSS Logo" loading="lazy"/>
-       <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/itss_logo_white_rg.svg" alt="IEEE ITSS Logo" loading="lazy"/>
+      <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/ieee_logo_white_rgb.svg" alt="IEEE Logo" loading="lazy"/>
+      <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/itss_logo_white_rgb.svg" alt="IEEE Logo" loading="lazy"/>
+      <img class="technical-sponsor-logo technical-sponsor-logo--dark" src="../_static/itsc_logo_white_rgb.png" alt="IEEE ITSC Logo" loading="lazy"/>
+
+      <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/ieee_logo_color_rgb.svg" alt="IEEE ITSS Logo" loading="lazy"/>
+      <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/itss_logo_color_rgb.svg" alt="IEEE ITSS Logo" loading="lazy"/>
+      <img class="technical-sponsor-logo technical-sponsor-logo--light" src="../_static/itsc_logo_color_rgb.png" alt="IEEE ITSC Logo" loading="lazy"/>
    </div>
