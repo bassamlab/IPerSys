@@ -281,38 +281,41 @@ change once the venue and time slot are finalized by the conference organizers.
    *  - Time
       - Event Type
       - Remarks
-   *  - 8:30 am - 8:35 am
+   *  - 11:30 am - 11:40 am
       - Opening Remarks by organizers
-      - 5 min introduction
-   *  - 8:35 am - 8:55 am
+      - 10 min introduction
+   *  - 11:40 am - 12:00 pm
       - | Robert Gee
         | *AUMOVIO, USA*
         | **Deployment Timing vs. Methodology: What you don't know can hurt you**
       - 15 min talk + 5 min Q/A
-   *  - 8:55 am - 9:15 am
+   *  - 12:00 pm - 12:20 pm
       - | Walter Zimmer
         | *University of California, Los Angeles, USA*
         | **Roadside Infrastructure Intelligence: Generating Live Digital Traffic Twins to Support Autonomous Driving**
       - 15 min talk + 5 min Q/A
-   *  - 9:15 am - 9:35 am
+   *  - 12:20 pm - 12:40 pm
       - | Markus Geisler
         | *CARISSMA at Technische Hochschule Ingolstadt, Germany*
         | **Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic**
       - 15 min talk + 5 min Q/A
-   *  - 9:35 am - 9:55 am
+   *  - 12:40 pm - 1:00 pm
       - | Simon Schäfer
         | *RWTH Aachen University, Germany*
         | **Filling the Gap: From Sim to Small to Full Scale Testing for Roadside Sensing Systems**
       - 15 min talk + 5 min Q/A
-   *  - 9:55 am - 10:15 am
+   *  - 1:00 pm - 2:00 pm
+      - **Lunch Break**
+      - 60 min break
+   *  - 2:00 pm - 2:20 pm
       - | Joseba Gorospe
         | *Johannes Kepler Universität Linz, Austria*
         | **ADAS Reliability and Road Condition Estimation Using Vehicle-Mounted Sensors**
       - 15 min talk + 5 min Q/A
-   *  - 10:15 am - 10:55 am
+   *  - 2:20 pm - 2:55 pm
       - All Speakers - Panel Discussion
-      - 40 min moderated by organizers
-   *  - 10:55 am - 11:00 am
+      - 35 min moderated by organizers
+   *  - 2:55 pm - 3:00 pm
       - Conclusion and Closing Remarks by organizers
       - 5 min farewell
 
