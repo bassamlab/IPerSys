@@ -146,10 +146,7 @@ Below you find the list of the international list speakers for this workshop ins
 
          Copyright © Markus Geisler
    
-   **Markus Geisler** is a researcher in cooperative perception and intelligent transportation
-   systems at the CARISSMA Institute of Automated Driving, Technische Hochschule Ingolstadt (THI),
-   Germany. His research focuses on infrastructure-based perception, vehicle-to-everything (V2X)
-   communication, and large-scale multi-sensor datasets for cooperative autonomous driving.
+   **Markus Geisler** is AI Technology Lead for Mobility Applications at the Institute of AImotion, Technische Hochschule Ingolstadt (THI), Germany. Previously, he worked at the CARISSMA Institute of Automated Driving (THI), where he conducted research on intelligent transportation systems and cooperative perception. His research focuses on infrastructure-based perception, vehicle-to-everything (V2X) communication, and large-scale multi-sensor datasets for cooperative autonomous driving.
 
    He has contributed to real-world deployments and dataset development for infrastructure-vehicle
    perception systems, including multi-modal setups combining roadside LiDAR and camera sensing with
@@ -296,7 +293,7 @@ change once the venue and time slot are finalized by the conference organizers.
       - 15 min talk + 5 min Q/A
    *  - 12:20 pm - 12:40 pm
       - | Markus Geisler
-        | *CARISSMA at Technische Hochschule Ingolstadt, Germany*
+        | *AImotion at Technische Hochschule Ingolstadt, Germany*
         | **Infrastructure-Based Perception Systems for Safety Applications in Urban Traffic**
       - 15 min talk + 5 min Q/A
    *  - 12:40 pm - 1:00 pm
