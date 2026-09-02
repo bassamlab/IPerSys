@@ -13,8 +13,13 @@ IPerSense at IEEE ITSC 2026
 Status
 ------
 
-.. admonition:: 2026-06-02 — Speaker lineup finalized
+.. admonition:: 2026-09-01 — Program finalized
    :class: tip
+
+   The timeslot of this workshop has been finalized by the conference organizers. The program below reflects the confirmed schedule. We are looking forward to an engaging and productive workshop at IEEE ITSC 2026.
+
+.. admonition:: 2026-06-02 — Speaker lineup finalized
+   :class: note
 
    The speakers for this instance of **IPerSense** have been finalized. Detailed information about
    the speakers and their talks is listed in the **Speakers** section below.
@@ -263,13 +268,6 @@ Program
 
 Please find the detailed program for this workshop instance below. The schedule is subject to
 change once the venue and time slot are finalized by the conference organizers.
-
-.. admonition:: 2026-06-02 — Program subject to change
-   :class: warning
-
-   The timeslot of this workshop is not yet finalized by the conference organizers. The program
-   below is a preliminary schedule in correct order but the exact times may change once the
-   conference program is finalized. Please check back for updates.
 
 .. list-table:: 
    :widths: 25 50 25
