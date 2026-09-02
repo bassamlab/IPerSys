@@ -26,6 +26,12 @@ digital twins for traffic infrastructure.
 News
 ----
 
+.. admonition:: 2026-09-01 - Program finalized
+   :class: tip
+
+   The timeslot and program for the **IPerSense** workshop at **IEEE ITSC 2026** have been
+   finalized. View the confirmed :ref:`itsc_2026`.
+
 .. admonition:: 2026-06-02 — Speaker lineup finalized
    :class: note
 

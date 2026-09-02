@@ -29,7 +29,7 @@ Overview
 
 - Format: Half-day
 - Location: `IEEE ITSC 2026, Naples, Italy <https://ieee-itsc.org/2026/>`_
-- Date/Time: September 15, 2026 at  TBA
+- Date/Time: September 15, 2026 at 11:30 am
 - Contact: `schaefer@embedded.rwth-aachen.de <mailto:schaefer@embedded.rwth-aachen.de>`_
 - Calendar reminder: :download:`Add workshop reminder (.ics) <../assets/ipersense_itsc_2026.ics>`
 
@@ -266,8 +266,7 @@ Below you find the list of the international list speakers for this workshop ins
 Program
 -------
 
-Please find the detailed program for this workshop instance below. The schedule is subject to
-change once the venue and time slot are finalized by the conference organizers.
+Please find the detailed program for this workshop instance below.
 
 .. list-table:: 
    :widths: 25 50 25

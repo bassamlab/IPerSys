@@ -6,11 +6,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:schaefer@embedded.rwth-aachen.de
 DTSTAMP:20260424T120000Z
-DTSTART:20260915T063000Z
-DTEND:20260915T090000Z
+DTSTART:20260915T093000Z
+DTEND:20260915T130000Z
 SUMMARY:IPerSense Workshop at IEEE ITSC 2026
 LOCATION:Naples, Italy (IEEE ITSC 2026)
-DESCRIPTION:IPerSense half-day workshop at IEEE ITSC 2026.\nWorkshop Details: https://bassamlab.github.io/IPerSense\nNote: Programme is tentative and may be updated.\nConference Details: https://ieee-itsc.org/2026/\n
+DESCRIPTION:IPerSense half-day workshop at IEEE ITSC 2026.\nWorkshop Details: https://bassamlab.github.io/IPerSense\nConference Details: https://ieee-itsc.org/2026/\n
 URL:https://bassamlab.github.io/IPerSense
 STATUS:CONFIRMED
 TRANSP:OPAQUE
